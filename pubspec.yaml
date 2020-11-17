@@ -1,8 +1,7 @@
 name: flu_scan
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/zjxhdlj/flu_scan/tree/master
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

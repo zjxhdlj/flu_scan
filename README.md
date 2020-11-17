@@ -2,6 +2,8 @@
 
 A new Flutter plugin.
 
+获取安卓原生广播内容
+
 ## Getting Started
 
 This project is a starting point for a Flutter
